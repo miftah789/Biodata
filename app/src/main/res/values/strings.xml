@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Biodata Miftah</string>
+    <string-array name="study">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA/SMK</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
